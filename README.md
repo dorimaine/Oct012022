@@ -4,3 +4,6 @@ Today class attendance:
 - Dory
 - Patience
 - Wade
+
+# Command to run your script on Mac OS
+python3 print.py
